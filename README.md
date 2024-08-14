@@ -3,7 +3,7 @@ EDC-Umamba: Enhancing Directional Scanning U-Shaped Mamba  Network for Glomerula
 
 ## Overview
 <p align="center">
-<img width="800" alt="eg" src="img/structure.png">
+<img width="800" alt="eg" src="img/strcture.png">
 </p>
 
 ##  Description
