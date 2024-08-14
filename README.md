@@ -3,7 +3,7 @@ EDC-Umamba: Enhancing Directional Scanning U-Shaped Mamba  Network for Glomerula
 
 ## Overview
 <p align="center">
-<img width="800" alt="eg" src="img/Display.png">
+<img width="800" alt="eg" src="img/structure.png">
 </p>
 
 ##  Description
@@ -13,6 +13,11 @@ In chronic kidney disease (CKD), assessing the thickness of glomerular basement 
 - Cuda 12.1
 - Python 3.9.18
 - PyTorch 2.0.0
+
+## Result
+<p align="center">
+<img width="800" alt="eg" src="img/result.png">
+</p>
 
 ## TODO
 - [ ] Release code
