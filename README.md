@@ -20,4 +20,7 @@ In chronic kidney disease (CKD), assessing the thickness of glomerular basement 
 </p>
 
 ## TODO
-- [ ] Release code
+- [ ] The code will be published after the paper is accepted.
+
+## Data available
+Due to medical ethics issues, our data will be conditionally disclosed after a public ethical review. Interested parties will request permission to access the data by emailing the address: blessingoasis@outlook.com.
